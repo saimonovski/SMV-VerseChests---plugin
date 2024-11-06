@@ -1,0 +1,13 @@
+name: SMV-VerseChests
+version: '${version}'
+main: io.github.saimonovski.smvchestpvpplugin.SMV_VerseChests
+prefix: SMV-VerseChests
+load: POSTWORLD
+author: saimonovski
+commands:
+  chestpvp:
+    permission: smv.verse.chests.admin
+    description: Commands to manage his plugin
+permissions:
+  smv.verse.chests.admin:
+    default: op

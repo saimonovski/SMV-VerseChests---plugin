@@ -1,0 +1,17 @@
+#Messages
+#Author: Saimonovski
+config-version: 2
+
+chestCreatorMessage: "&2Nadano kreator"
+
+noPermissionMessage: "&cBrak uprawnień!"
+
+changesSavedMessage: "&aZmiany zostały zapisane."
+
+coolDownMessage: "&ePoczekaj &f{PLAYER-REMAINING-COOLDOWN}, zanim otworzysz ta skrznie ponownie."
+
+chestCreatedMessage: "&2Skrzynia została utworzona."
+
+chestLootedMessage: "&6Skrzynia została zlootowana!"
+
+chestRemovedMessage: "&6Skrzynia została usunieta!"
